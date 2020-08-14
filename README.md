@@ -4,4 +4,8 @@ Projeto da Next Level Week da RocketSeat, desenvolvemos uma aplicação web e mo
 
 ![gif proffy](https://github.com/AyrtonCosta/NextLevelWeek/blob/master/proffy.gif)
 
-Esse é um pouco da funcionalidade do projeto Web.
+# Esse é um pouco da funcionalidade do projeto Web.
+
+![mobilepicture](mobile1.jpg)
+
+# e essa é a tela de início do mobile
